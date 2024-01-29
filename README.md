@@ -1,9 +1,9 @@
 # Proyecto Individual: 
 
 # Accidentes de Tránsito de la Ciudad Autónoma de Buenos Aires, Argentina, 2016-2021. 
-## Amelia Herrera Briceño 
-## melinnicri@gmail.com 
-## Enero, 2024
+### Amelia Herrera Briceño 
+### melinnicri@gmail.com 
+### Enero, 2024
  
 
 
