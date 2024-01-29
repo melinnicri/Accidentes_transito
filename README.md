@@ -50,10 +50,10 @@ Aquí se escoge la Comuna 1, por el Top 5 de Accidentes de tránsito fatales, co
 
 
 ## Archivos: 
-["Notebook Accidentes"](https://github.com/melinnicri/Accidentes_transito/blob/main/Accidentes.ipynb)
-Datos desde Página web Argentina: ["Carpeta DataBase"](https://github.com/melinnicri/Accidentes_transito/tree/main/DataBase)
-Tablas realizadas: ["Carpeta Tablas"](https://github.com/melinnicri/Accidentes_transito/tree/main/Tablas_realizadas)
-Archivo PowerBI: ["Accidentes"](https://github.com/melinnicri/Accidentes_transito/blob/main/AccBA.pbix)
+- ["Notebook Accidentes"](https://github.com/melinnicri/Accidentes_transito/blob/main/Accidentes.ipynb)
+- Datos desde Página web Argentina: ["Carpeta DataBase"](https://github.com/melinnicri/Accidentes_transito/tree/main/DataBase)
+- Tablas realizadas: ["Carpeta Tablas"](https://github.com/melinnicri/Accidentes_transito/tree/main/Tablas_realizadas)
+- Archivo PowerBI: ["Accidentes"](https://github.com/melinnicri/Accidentes_transito/blob/main/AccBA.pbix)
 
 
 ## Conclusiones: 
@@ -83,11 +83,12 @@ De acuerdo con los resultados obtenidos en PowerBI, podemos concluir que:
 
 
 Mientras más tránsito vehicular, más accidentes. Por lo tanto, es importante tomar medidas de precaución para evitar accidentes. Algunas de las medidas que se pueden tomar son:
-•	Respetar las señales de tránsito: Las señales de tránsito están diseñadas para mantener el orden en las carreteras y garantizar la seguridad de los conductores y peatones. Es importante respetar estas señales para evitar accidentes.
-•	Mantener el vehículo en buen estado: es importante realizar un mantenimiento preventivo cada cierto tiempo.
-•	Transitar a una velocidad prudente: Conducir a una velocidad adecuada es fundamental para evitar accidentes. La velocidad debe ser ajustada a las condiciones del tráfico y del clima.
-•	Mantener el cinturón de seguridad como el uso de cascos y ropa apropiada para motos (cuero antidesforramiento): El uso del cinturón de seguridad y de cascos es obligatorio en muchos países. Estos elementos de seguridad pueden salvar vidas en caso de accidentes. Además, es importante usar ropa adecuada para motos, como cuero antidesforramiento, para protegerse en caso de caídas.
-•	Cruzar en zona habilitada: Los peatones deben cruzar la calle en las zonas habilitadas para ello. Cruzar la calle en lugares no autorizados puede ser peligroso y aumentar el riesgo de accidentes.
-•	Descansar lo necesario para conducir vehículos: Conducir cansado o con sueño puede ser peligroso. Es importante descansar lo suficiente antes de conducir para evitar accidentes.
-•	No beber alcohol, ni consumir drogas psicotrópicas que afecten la conducción: El alcohol y las drogas psicotrópicas pueden afectar la capacidad de conducción y aumentar el riesgo de accidentes. Es importante evitar su consumo antes de conducir.
+- Respetar las señales de tránsito: Las señales de tránsito están diseñadas para mantener el orden en las carreteras y garantizar la seguridad de los conductores y peatones. Es importante respetar estas señales para evitar accidentes.
+- Mantener el vehículo en buen estado: es importante realizar un mantenimiento preventivo cada cierto tiempo.
+- Transitar a una velocidad prudente: Conducir a una velocidad adecuada es fundamental para evitar accidentes. La velocidad debe ser ajustada a las condiciones del tráfico y del clima.
+- Mantener el cinturón de seguridad como el uso de cascos y ropa apropiada para motos (cuero antidesforramiento): El uso del cinturón de seguridad y de cascos es obligatorio en muchos países. Estos elementos de seguridad pueden salvar vidas en caso de accidentes. Además, es importante usar ropa adecuada para motos, como cuero antidesforramiento, para protegerse en caso de caídas.
+- Cruzar en zona habilitada: Los peatones deben cruzar la calle en las zonas habilitadas para ello. Cruzar la calle en lugares no autorizados puede ser peligroso y aumentar el riesgo de accidentes.
+- Descansar lo necesario para conducir vehículos: Conducir cansado o con sueño puede ser peligroso. Es importante descansar lo suficiente antes de conducir para evitar accidentes.
+- No beber alcohol, ni consumir drogas psicotrópicas que afecten la conducción: El alcohol y las drogas psicotrópicas pueden afectar la capacidad de conducción y aumentar el riesgo de accidentes. Es importante evitar su consumo antes de conducir.
+
 ### FIN…_@v
